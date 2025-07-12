@@ -96,16 +96,17 @@ server/ # Node.js backend
 
 .env # Environment variables
 
-yaml
+npm
 Copy
 Edit
+clone repo
 
 ---
 
 ## 🛡️ License
 
 This project is built as part of a hackathon submission. You are welcome to fork, learn, and expand upon it!
-
+c
 ---
 
 > 🔗 **Built with ❤️ by Akash Jadhav**
