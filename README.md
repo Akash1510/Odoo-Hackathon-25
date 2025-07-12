@@ -28,7 +28,7 @@ _(Solo developer project)_
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo on Google Drive](https://your-public-demo-link.com)
+👉 [Watch Demo on Google Drive](https://www.loom.com/share/376a8c65a8f34a64a1ae7ce20cb69d55?sid=1c3769e3-08c6-4444-9643-762528b85fdf)
 
 > Please ensure the link is publicly viewable (change sharing permissions if needed).
 
